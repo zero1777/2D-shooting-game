@@ -1,0 +1,572 @@
+There are total 5 supported mouse buttons
+Allegro5 initialized
+Game begin
+resized image: main_background.jpg
+resized image: setting_bg.png
+resized image: boss_weapon.png
+resized image: boss_bg.png
+resized image: background.jpeg
+resized image: profile.jpg
+resized image: profile.jpg
+resized image: game_end.jpg
+resized image: Q.jpg
+resized image: W.png
+resized image: E.jpg
+resized image: stop.jpg
+resized image: pause.png
+resized image: resume.png
+resized image: exit.png
+resized image: pause2.png
+resized image: resume2.png
+resized image: exit2.png
+resized image: weapon_2.png
+resized image: weapon_3.png
+resized image: weapon_3_ultimate.png
+resized image: weapon_clone.png
+resized image: E_smoke.png
+Change scene from 0 to 1
+Game initialized
+Game start event loop
+Mouse move to (1085, 167)
+Mouse move to (1088, 167)
+Mouse move to (1091, 168)
+Mouse move to (1093, 169)
+Mouse move to (1096, 169)
+Mouse move to (1098, 169)
+Mouse move to (1099, 169)
+Mouse move to (1101, 169)
+Mouse move to (1102, 169)
+Mouse move to (1103, 169)
+Mouse move to (1104, 169)
+Mouse move to (1105, 169)
+Mouse move to (1110, 170)
+Mouse move to (1112, 170)
+Mouse move to (1114, 170)
+Mouse move to (1117, 171)
+Mouse move to (1120, 171)
+Mouse move to (1124, 171)
+Mouse move to (1127, 171)
+Mouse move to (1133, 171)
+Mouse move to (1140, 171)
+Mouse move to (1144, 171)
+Mouse move to (1151, 170)
+Mouse move to (1155, 170)
+Mouse move to (1161, 168)
+Mouse move to (1165, 167)
+Mouse move to (1170, 167)
+Mouse move to (1174, 166)
+Mouse move to (1177, 165)
+Mouse move to (1179, 165)
+Mouse move to (1181, 164)
+Mouse move to (1183, 163)
+Mouse move to (1185, 163)
+Mouse move to (1186, 162)
+Mouse move to (1188, 161)
+Mouse move to (1189, 161)
+Mouse move to (1190, 160)
+Mouse move to (1191, 160)
+Mouse move to (1194, 158)
+Mouse move to (1200, 156)
+Mouse move to (1211, 153)
+Mouse move to (1245, 147)
+Mouse move to (1261, 145)
+Mouse move to (1273, 143)
+Mouse move to (1284, 142)
+Mouse move to (1295, 141)
+Mouse move to (1305, 139)
+Mouse move to (1314, 138)
+Mouse move to (1323, 138)
+Mouse move to (1332, 137)
+Mouse move to (1338, 136)
+Mouse move to (1344, 136)
+Mouse move to (1348, 136)
+Mouse move to (1355, 136)
+Mouse move to (1358, 136)
+Mouse move to (1360, 136)
+Mouse move to (1362, 136)
+Mouse move to (1362, 139)
+Mouse move to (1362, 144)
+Mouse move to (1362, 153)
+Mouse move to (1355, 237)
+Mouse move to (1355, 251)
+Mouse move to (1351, 288)
+Mouse move to (1349, 318)
+Mouse move to (1349, 335)
+Mouse move to (1347, 352)
+Mouse move to (1345, 378)
+Mouse move to (1345, 400)
+Mouse move to (1344, 413)
+Mouse move to (1344, 423)
+Mouse move to (1344, 430)
+Mouse move to (1344, 436)
+Mouse move to (1344, 444)
+Mouse move to (1344, 449)
+Mouse move to (1344, 454)
+Mouse move to (1344, 456)
+Mouse move to (1344, 459)
+Mouse move to (1344, 461)
+Mouse move to (1344, 463)
+Mouse move to (1343, 466)
+Mouse move to (1343, 478)
+Mouse move to (1345, 532)
+Mouse move to (1346, 551)
+Mouse move to (1347, 566)
+Mouse move to (1352, 602)
+Mouse move to (1355, 628)
+Mouse move to (1357, 643)
+Mouse move to (1358, 656)
+Mouse move to (1360, 666)
+Mouse move to (1362, 678)
+Mouse move to (1363, 687)
+Mouse move to (1364, 694)
+Mouse move to (1366, 710)
+Mouse move to (1369, 721)
+Mouse move to (1370, 722)
+Mouse move to (1370, 723)
+Mouse move to (1373, 723)
+Mouse move to (1383, 721)
+Mouse move to (1391, 718)
+Mouse move to (1403, 713)
+Mouse move to (1413, 710)
+Mouse move to (1422, 708)
+Mouse move to (1430, 705)
+Mouse move to (1442, 702)
+Mouse move to (1447, 701)
+Mouse move to (1464, 699)
+Mouse move to (1475, 698)
+Mouse move to (1486, 696)
+Mouse move to (1494, 695)
+Mouse move to (1504, 694)
+Mouse move to (1510, 693)
+Mouse move to (1515, 692)
+Mouse move to (1520, 691)
+Mouse move to (1523, 690)
+Mouse move to (1526, 690)
+Mouse move to (1528, 689)
+Mouse move to (1530, 688)
+Mouse move to (1531, 688)
+Mouse move to (1531, 691)
+Mouse move to (1531, 694)
+Mouse move to (1530, 697)
+Mouse move to (1529, 702)
+Mouse move to (1528, 705)
+Mouse move to (1527, 713)
+Mouse move to (1526, 718)
+Mouse move to (1525, 723)
+Mouse move to (1524, 730)
+Mouse move to (1523, 735)
+Mouse move to (1523, 740)
+Mouse move to (1522, 744)
+Mouse move to (1521, 751)
+Mouse move to (1521, 762)
+Mouse move to (1521, 763)
+Mouse move to (1521, 765)
+Mouse move to (1521, 767)
+Mouse move to (1521, 768)
+Mouse move to (1521, 769)
+Mouse move to (1521, 770)
+Mouse move to (1523, 767)
+Mouse move to (1525, 764)
+Mouse move to (1523, 765)
+Mouse move to (1520, 766)
+Mouse move to (1518, 767)
+Mouse move to (1515, 769)
+Mouse move to (1512, 770)
+Mouse move to (1510, 770)
+Mouse move to (1506, 771)
+Mouse move to (1503, 771)
+Mouse move to (1500, 771)
+Mouse move to (1498, 771)
+Mouse move to (1495, 771)
+Mouse move to (1491, 769)
+Mouse move to (1489, 769)
+Mouse move to (1484, 765)
+Mouse move to (1483, 763)
+Mouse move to (1483, 761)
+Mouse move to (1482, 759)
+Mouse move to (1482, 757)
+Mouse move to (1481, 754)
+Mouse move to (1481, 750)
+Mouse move to (1481, 748)
+Mouse move to (1481, 746)
+Mouse move to (1481, 744)
+Mouse move to (1481, 742)
+Mouse move to (1483, 740)
+Mouse move to (1484, 739)
+Mouse move to (1485, 738)
+Mouse move to (1487, 736)
+Mouse move to (1489, 736)
+Mouse move to (1491, 734)
+Mouse move to (1492, 734)
+Mouse move to (1493, 733)
+Mouse move to (1495, 733)
+Mouse move to (1496, 733)
+Mouse move to (1498, 733)
+Mouse move to (1500, 733)
+Mouse move to (1502, 733)
+Mouse move to (1503, 733)
+Mouse move to (1505, 733)
+Mouse move to (1506, 734)
+Mouse move to (1507, 735)
+Mouse move to (1508, 736)
+Mouse move to (1509, 737)
+Mouse move to (1510, 739)
+Mouse move to (1511, 740)
+Mouse move to (1513, 742)
+Mouse move to (1514, 745)
+Mouse move to (1515, 748)
+Mouse move to (1517, 752)
+Mouse move to (1518, 755)
+Mouse move to (1518, 758)
+Mouse move to (1518, 761)
+Mouse move to (1518, 764)
+Mouse move to (1518, 767)
+Mouse move to (1518, 770)
+Mouse move to (1517, 771)
+Mouse move to (1517, 773)
+Mouse move to (1515, 774)
+Mouse move to (1514, 775)
+Mouse move to (1510, 777)
+Mouse move to (1506, 777)
+Mouse move to (1501, 777)
+Mouse move to (1497, 777)
+Mouse move to (1491, 774)
+Mouse move to (1486, 771)
+Mouse move to (1483, 769)
+Mouse move to (1479, 764)
+Mouse move to (1475, 760)
+Mouse move to (1472, 756)
+Mouse move to (1471, 752)
+Mouse move to (1470, 749)
+Mouse move to (1468, 745)
+Mouse move to (1468, 743)
+Mouse move to (1467, 740)
+Mouse move to (1467, 737)
+Mouse move to (1467, 735)
+Mouse move to (1467, 733)
+Mouse move to (1467, 732)
+Mouse move to (1467, 731)
+Mouse move to (1468, 730)
+Mouse move to (1470, 728)
+Mouse move to (1472, 726)
+Mouse move to (1474, 725)
+Mouse move to (1476, 724)
+Mouse move to (1479, 723)
+Mouse move to (1482, 722)
+Mouse move to (1487, 722)
+Mouse move to (1491, 722)
+Mouse move to (1496, 722)
+Mouse move to (1499, 722)
+Mouse move to (1503, 724)
+Mouse move to (1507, 725)
+Mouse move to (1511, 728)
+Mouse move to (1513, 729)
+Mouse move to (1515, 731)
+Mouse move to (1517, 732)
+Mouse move to (1519, 733)
+Mouse move to (1520, 734)
+Mouse move to (1522, 737)
+Mouse move to (1523, 738)
+Mouse move to (1524, 740)
+Mouse move to (1525, 742)
+Mouse move to (1526, 746)
+Mouse move to (1527, 749)
+Mouse move to (1527, 751)
+Mouse move to (1527, 754)
+Mouse move to (1527, 758)
+Mouse move to (1527, 761)
+Mouse move to (1526, 764)
+Mouse move to (1525, 766)
+Mouse move to (1522, 769)
+Mouse move to (1519, 771)
+Mouse move to (1515, 773)
+Mouse move to (1511, 775)
+Mouse move to (1507, 776)
+Mouse move to (1503, 776)
+Mouse move to (1499, 776)
+Mouse move to (1496, 776)
+Mouse move to (1492, 774)
+Mouse move to (1489, 772)
+Mouse move to (1485, 768)
+Mouse move to (1481, 765)
+Mouse move to (1477, 757)
+Mouse move to (1473, 750)
+Mouse move to (1470, 744)
+Mouse move to (1468, 735)
+Mouse move to (1466, 725)
+Mouse move to (1466, 714)
+Mouse move to (1466, 704)
+Mouse move to (1466, 698)
+Mouse move to (1466, 694)
+Mouse move to (1466, 690)
+Mouse move to (1467, 687)
+Mouse move to (1469, 685)
+Mouse move to (1469, 684)
+Mouse move to (1470, 683)
+Mouse move to (1473, 680)
+Mouse move to (1476, 678)
+Mouse move to (1478, 677)
+Mouse move to (1480, 676)
+Mouse move to (1483, 675)
+Mouse move to (1485, 674)
+Mouse move to (1487, 674)
+Mouse move to (1489, 674)
+Mouse move to (1491, 674)
+Mouse move to (1493, 674)
+Mouse move to (1495, 674)
+Mouse move to (1496, 674)
+Mouse move to (1499, 674)
+Mouse move to (1500, 674)
+Mouse move to (1502, 676)
+Mouse move to (1504, 678)
+Mouse move to (1507, 680)
+Mouse move to (1508, 682)
+Mouse move to (1510, 684)
+Mouse move to (1512, 687)
+Mouse move to (1513, 689)
+Mouse move to (1515, 692)
+Mouse move to (1516, 693)
+Mouse move to (1517, 697)
+Mouse move to (1518, 699)
+Mouse move to (1519, 701)
+Mouse move to (1520, 703)
+Mouse move to (1520, 704)
+Mouse move to (1521, 706)
+Mouse move to (1521, 707)
+Mouse move to (1521, 708)
+Mouse move to (1521, 709)
+Mouse move to (1521, 710)
+290 frame(s) dropped
+Key with keycode 67 down
+75
+Change scene from 1 to 2
+stop audio (bgm)
+Key with keycode 67 up
+Key with keycode 157 down
+75
+Key with keycode 17 up
+Key with keycode 82 down
+75
+Key with keycode 82 up
+Key with keycode 215 down
+75
+Key with keycode 215 up
+Key with keycode 17 down
+75
+Key with keycode 17 up
+Key with keycode 83 down
+75
+Key with keycode 85 down
+75
+Key with keycode 83 up
+Key with keycode 75 down
+75
+Key with keycode 82 down
+75
+Key with keycode 85 up
+Key with keycode 75 up
+Key with keycode 82 up
+Key with keycode 17 down
+75
+Key with keycode 17 up
+Key with keycode 17 down
+75
+Key with keycode 17 up
+Key with keycode 17 down
+75
+Key with keycode 17 up
+Key with keycode 17 down
+75
+Key with keycode 17 up
+Key with keycode 17 down
+75
+Key with keycode 17 up
+Key with keycode 17 down
+75
+Key with keycode 17 up
+Key with keycode 17 down
+75
+Key with keycode 17 up
+Key with keycode 75 down
+75
+Key with keycode 83 down
+75
+Key with keycode 75 up
+Key with keycode 83 up
+Key with keycode 75 down
+75
+Key with keycode 75 up
+Key with keycode 82 down
+75
+Key with keycode 75 down
+75
+Key with keycode 82 up
+Key with keycode 84 down
+75
+Key with keycode 75 up
+Key with keycode 75 down
+75
+Key with keycode 84 up
+Key with keycode 75 up
+Key with keycode 75 down
+75
+Key with keycode 75 up
+Key with keycode 75 down
+75
+Key with keycode 75 up
+Key with keycode 75 down
+75
+Key with keycode 75 up
+Key with keycode 75 down
+75
+Key with keycode 75 up
+Key with keycode 83 down
+75
+Key with keycode 75 down
+75
+Key with keycode 83 up
+Key with keycode 85 down
+75
+Key with keycode 75 up
+Key with keycode 23 down
+75
+Key with keycode 85 up
+Key with keycode 23 up
+Key with keycode 82 down
+75
+Key with keycode 75 down
+75
+Key with keycode 82 up
+Key with keycode 75 up
+Key with keycode 83 down
+75
+Key with keycode 83 up
+Key with keycode 5 down
+75
+Key with keycode 5 up
+Key with keycode 75 down
+75
+Key with keycode 83 down
+75
+Key with keycode 75 up
+Key with keycode 83 up
+Key with keycode 75 down
+75
+Key with keycode 75 up
+Key with keycode 17 down
+75
+Key with keycode 83 down
+75
+Key with keycode 17 up
+Key with keycode 83 up
+Key with keycode 75 down
+75
+Key with keycode 82 down
+75
+Key with keycode 75 up
+Key with keycode 82 up
+Key with keycode 83 down
+75
+Key with keycode 75 down
+75
+Key with keycode 83 up
+Key with keycode 75 up
+Key with keycode 82 down
+75
+Key with keycode 75 down
+75
+Key with keycode 82 up
+Key with keycode 75 up
+Key with keycode 75 down
+75
+Key with keycode 83 down
+75
+Key with keycode 75 up
+Key with keycode 83 up
+Key with keycode 75 down
+75
+Key with keycode 75 up
+Key with keycode 82 down
+75
+Key with keycode 82 up
+Key with keycode 75 down
+75
+Key with keycode 83 down
+75
+Key with keycode 75 up
+Key with keycode 83 up
+Key with keycode 75 down
+75
+Key with keycode 82 down
+75
+Key with keycode 75 up
+Key with keycode 82 up
+Key with keycode 75 down
+75
+Key with keycode 75 up
+Mouse move to (1523, 709)
+Mouse move to (1528, 707)
+Mouse move to (1536, 703)
+Mouse move to (1546, 700)
+Mouse move to (1560, 696)
+Mouse move to (1573, 693)
+Mouse move to (1593, 687)
+Mouse move to (1612, 682)
+Mouse move to (1625, 679)
+Mouse move to (1639, 675)
+Mouse move to (1650, 672)
+Mouse move to (1668, 666)
+Mouse move to (1690, 655)
+Mouse move to (1686, 462)
+Mouse move to (1659, 476)
+Mouse move to (1644, 483)
+Mouse move to (1630, 489)
+Mouse move to (1621, 493)
+Mouse move to (1614, 494)
+Mouse move to (1611, 496)
+Mouse move to (1608, 497)
+Mouse move to (1606, 497)
+Mouse move to (1610, 497)
+Mouse move to (1623, 495)
+Mouse move to (1646, 490)
+Mouse move to (1672, 484)
+Mouse move to (1698, 475)
+Mouse move to (1699, 49)
+Mouse move to (1697, 51)
+Mouse move to (1696, 52)
+Mouse move to (1694, 53)
+Mouse move to (1692, 55)
+Mouse move to (1690, 56)
+Mouse move to (1688, 57)
+Mouse move to (1687, 58)
+Mouse move to (1685, 58)
+Mouse move to (1684, 59)
+Mouse move to (1682, 59)
+Mouse move to (1679, 60)
+Mouse move to (1678, 60)
+Mouse move to (1676, 61)
+Mouse move to (1674, 61)
+Mouse move to (1673, 62)
+Mouse move to (1671, 62)
+Mouse move to (1670, 62)
+Mouse move to (1669, 62)
+Mouse move to (1667, 62)
+Mouse move to (1666, 62)
+Mouse button 1 down at (1666, 62)
+Change scene from 2 to 1
+stop audio (bgm)
+Mouse button 1 up at (1666, 62)
+Mouse move to (1666, 60)
+Mouse move to (1666, 58)
+Mouse move to (1667, 55)
+Mouse move to (1668, 52)
+Mouse move to (1672, 44)
+Mouse move to (1675, 34)
+Mouse move to (1678, 25)
+Mouse move to (1681, 18)
+Mouse move to (1683, 12)
+Mouse move to (1685, 5)
+Mouse move to (1686, 0)
+Window close button clicked
+Game end
+all the allocations are destroyed
