@@ -1,7 +1,7 @@
 # 2D-shooting-game
 NTHU CS. 10710 CS135502 Introduction to Programming (I). Final Project.
 
-2D shooting game developed by Allegro5
+2D shooting game developed by Allegro5.
 
 ## Installation
 Follow the step [here](https://github.com/j3soon/Allegro5Template/blob/master/docs/README.md).
