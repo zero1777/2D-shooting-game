@@ -14,12 +14,16 @@ Follow the step [here](https://github.com/j3soon/Allegro5Template/blob/master/do
 
 ## Game Scene
 - Start
-![](imgs/start.png)
+<img src="imgs/start.png" width=70% height=70%>
+
 - Play
-![](imgs/play.png)
+<img src="imgs/play.png" width=70% height=70%>
+
 - Boss
-![](imgs/boss.png)
+<img src="imgs/boss.png" width=70% height=70%>
+
 - Win
-![](imgs/win.png)
+<img src="imgs/win.png" width=70% height=70%>
+
 - Lose
-![](imgs/lose.png)
+<img src="imgs/lose.png" width=70% height=70%>
